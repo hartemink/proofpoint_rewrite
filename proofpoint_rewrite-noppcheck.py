@@ -11,7 +11,7 @@ url defense urls from an email. A simple rule like below should work.
 
 The program will take stdin, and return the modified content on stdout.
 This is a very basic script that assumes a lot. It should rewrite messages
-with a single part, or multiplart messages with plain text and html.
+with a single part, or multipart messages with plain text and html.
 Joe Shamblin <wjs at cs.duke.edu>
 '''
 
